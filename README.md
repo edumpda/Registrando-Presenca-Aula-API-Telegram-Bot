@@ -19,3 +19,16 @@ Preenchendo os dados e clicando em enviar:
 
 Preenchendo tudo certinho, pronto! :)
 ![image](https://user-images.githubusercontent.com/94916979/232633986-960b347c-1898-429e-b069-6d957cd1ea65.png)
+
+<h1>Bot telegram</h1>
+
+<h2>Para utilizar o bot realize os seguintes passos:</h2>
+
+<p>Passo 01: Instale o Bot do Telegram</p>
+Execute o comando: pip install pytelegrambotapi
+
+<p>Passo 02: Execute o arquivo do Telebram Bot</p>
+Arquivo -> botTelegram.py
+
+<p>Passo 03: Insira a matrícula</p>
+Para teste insira a matrícula "123456789"
