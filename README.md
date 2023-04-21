@@ -24,8 +24,8 @@ Preenchendo tudo certinho, pronto! :)
 
 <h2>Para utilizar o bot realize os seguintes passos:</h2>
 
-<p>Passo 01: Instale o Bot do Telegram</p> -> Execute o comando: pip install pytelegrambotapi
+<p>Passo 01: Instale o Bot do Telegram -> Execute o comando: pip install pytelegrambotapi</p>
 
-<p>Passo 02: Execute o arquivo do Telebram Bot</p> -> Arquivo botTelegram.py
+<p>Passo 02: Execute o arquivo do Telebram Bot -> Arquivo botTelegram.py</p>
 
-<p>Passo 03: Insira a matrícula</p> -> Para teste insira a matrícula "123456789"
+<p>Passo 03: Insira a matrícula -> Para teste insira a matrícula "123456789"</p>
