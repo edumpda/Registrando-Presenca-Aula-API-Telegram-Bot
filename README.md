@@ -28,6 +28,6 @@ Preenchendo tudo certinho, pronto! :)
 
 <p>Passo 02: Execute o arquivo do Telebram Bot -> Arquivo botTelegram.py</p>
 
-<p>Passo 03: Acesse o link -> https://web.telegram.org/k/#@PresencaESboty</p>
+<p>Passo 03: Acesse o link -> t.me/PresencaESbot</p>
 
 <p>Passo 04: Insira a matrícula -> Para teste insira a matrícula "123456789"</p>
